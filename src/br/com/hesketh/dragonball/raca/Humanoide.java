@@ -1,4 +1,4 @@
-package br.com.hesketh.dragonball;
+package br.com.hesketh.dragonball.raca;
 
 public abstract class Humanoide {
 
