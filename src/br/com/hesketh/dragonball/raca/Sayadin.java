@@ -2,11 +2,11 @@ package br.com.hesketh.dragonball.raca;
 
 public class Sayadin extends Humanoide{
 
-	private Calda calda;
+	private Cauda cauda;
 	
 	public Sayadin(String nome, int idade, int poderLuta, int poderMagia) {
 		super(nome, idade, poderLuta, poderMagia);
-		this.calda = new Calda(1);
+		this.cauda = new Cauda(1);
 	}
 
 
